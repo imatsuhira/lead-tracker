@@ -1,6 +1,9 @@
 # Lead-tracker
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/73891874/128205558-2cf3563c-f128-4140-aa2b-0c5bf6c63aca.gif)
+
+https://user-images.githubusercontent.com/73891874/128205808-eebbaf68-ee8b-4b72-900b-feec9f447316.mp4
+
+
 
 
 This app is google chrome extension lead-tracker.
